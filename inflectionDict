@@ -1,0 +1,4 @@
+# If the message "Pyinflect could not inflect ... . Please add word to inflection dict." occure, you can add the singular and plural here 
+
+smartphone smartphones
+coronavirus coronaviruses

@@ -1,0 +1,8 @@
+# Further Nouns can be placed in a line
+# Lines starting with # and empty lines are ignored
+
+animal
+dog
+cat
+home
+human
