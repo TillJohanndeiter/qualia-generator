@@ -1,7 +1,5 @@
 # Qualia structure generator
 
-[![pipeline status](https://gitlab.com/till_johanndeiter/qualiagenerator/badges/master/pipeline.svg)](https://gitlab.com/till_johanndeiter/qualiagenerator/-/commits/master)
-
 This python commandline application provides the automatic acquisition of qualia structures for english nouns. A qualia structure detected the meaning and ambiguity of a word. The meaning is divided into the four categories *formal* (Domain), *constiutive* (Components), *agentive* (Creation) and *telic* (Application). For example, this is a possible qualia structure of the word *dog*:
 
 
